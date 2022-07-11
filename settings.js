@@ -9,8 +9,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Ubah Disini
-global.ownerNumber = ['6285851955578','6282373158947','0']
-global.ownerName = 'Faiq X Radhin'
+global.ownerNumber = ['6281273778346','6282373158947','0']
+global.ownerName = 'Radhin'
 global.packname = 'Leviathan Corporation'
 global.author = 'Whatsapp Bot 2022 by Leviathan.inc'
 global.prefa = ['','!','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
